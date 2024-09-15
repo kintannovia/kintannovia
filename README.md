@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🔭 Currently I am a student at Ibn Khaldun University majoring in Informatics Engineering
 - 🌱 I’m currently learning on Bangkit Academy
 - 📫 How to reach me:
-  * (LinkedIn)[https://www.linkedin.com/in/kintan-novia-azzahra-2851201a4/]
-  * (Instagram)[https://www.instagram.com/kintanvzr/]
+  * [LinkedIn](https://www.linkedin.com/in/kintan-novia-azzahra-2851201a4/).
+  * [Instagram](https://www.instagram.com/kintanvzr/).
