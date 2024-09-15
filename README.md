@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-### Hi, I'm Kintan Novia Azzahra!
+#### It's Kintan Novia Azzahra!
 
 - 🔭 Currently I am a student at Ibn Khaldun University majoring in Informatics Engineering
 - 🌱 I’m currently learning on Bangkit Academy
