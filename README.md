@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-### My name is Kintan Novia Azzahra, I'm interested in UI/UX design and programming.
+### My name is Kintan Novia Azzahra!
 
 - 🔭 Currently I am a student at Ibn Khaldun University majoring in Informatics Engineering
 - 🌱 I’m currently learning on Bangkit Academy
